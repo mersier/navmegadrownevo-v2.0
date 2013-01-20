@@ -3,10 +3,11 @@
  * Module MeGa DrOwN mEnU Evolution - Main file
  *
  * @category   	Module / front_office_features
- * @author     	PrestaEdit <j.danse@prestaedit.com> (since 2.0)
  * @author     	DevForEver (special thanks to him)
+ * @author     	PrestaEdit <j.danse@prestaedit.com> (since 2.0)
+ * @author 	goof03 <https://github.com/goof03>
  * @copyright  	2012 PrestaEdit
- * @version   	2.0
+ * @version   	2.3.1
  * @link       	http://www.prestaedit.com/
  * @since      	File available since Release 1.0
 */
